@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
---> I’m currently working on Life.
---> Technology Enthusiast.
+I’m currently working on Life
+Technology Enthusiast.
 ![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=prussian)
