@@ -3,5 +3,5 @@
 
 I’m currently working on *Life.*  
 Technology Enthusiast.   
-Personality type **INJF**.
+Personality type **INJF**.   
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=dark)
