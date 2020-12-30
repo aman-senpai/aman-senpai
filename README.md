@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/aman-senpai)   
-<h1 align="center">Hi, I'm Aman Senpai</h1>   
+### Hi, I'm Aman
 I’m currently working on ***Life***.  
 Technology ***Enthusiast***.   
 Personality type ***INJF***.   
