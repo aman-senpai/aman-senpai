@@ -11,7 +11,7 @@
 </a>
 </br>
       
-   I’m currently working on ***Life***.  
+I’m currently working on ***Life***.  
 Technology ***Enthusiast***.   
 Personality type ***INFJ***.   
 >***Atheist***.   
