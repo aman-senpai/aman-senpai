@@ -9,12 +9,11 @@
 <a href="https://www.instagram.com/aman.senpai/" target="_blank">
  <img align="left" alt="Aman Senpai | Instagram" width="22px" src="Social Media/ig.gif" />
 </a>   
-</br>
-      
+</br>      
 I’m currently working on ***Life***.  
 Technology ***Enthusiast***.   
 Personality type ***INFJ***.   
 >***Atheist***.   
 >***Otaku***.   
-![Tux, the Linux mascot](1giphy.gif)
+![Aman Senpai](1giphy.gif)
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=gotham" alt="aman-senpai" /> -->
