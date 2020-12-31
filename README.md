@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/aman-senpai)   
-<img align="right" alt="GIF" src="1giphy.gif?raw=true" />     
+  
 ### Hi, I'm ***Aman***.   <img src="hi.gif" width="25px">  
 # 
     
@@ -16,4 +16,5 @@ Technology ***Enthusiast***.
 Personality type ***INFJ***.   
 >***Atheist***.   
 >***Otaku***.   
+![Tux, the Linux mascot](1giphy.gif)
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=gotham" alt="aman-senpai" /> -->
