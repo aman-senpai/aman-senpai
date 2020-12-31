@@ -10,10 +10,11 @@
 </a>  
 
 #    
+***Indian*** 🇮🇳    
 I’m currently working on ***Life***.  
 Technology ***Enthusiast***.   
-Personality type ***INFJ***. 
-***Indian*** 🇮🇳    
+Personality type ***INFJ***.  
+
 >***Atheist***.    
 >***Otaku***.   
 ![image](1giphy.gif)
