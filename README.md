@@ -9,7 +9,6 @@
 <a href="https://www.instagram.com/aman.senpai/" target="_blank">
  <img align="left" alt="Aman Senpai | Instagram" width="22px" src="Social Media/ig.gif" />
 </a>   
-</br>      
 I’m currently working on ***Life***.  
 Technology ***Enthusiast***.   
 Personality type ***INFJ***.   
