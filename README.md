@@ -16,4 +16,4 @@ Technology ***Enthusiast***.
 Personality type ***INFJ***.   
 >***Atheist***.   
 >***Otaku***.   
-# <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=gotham" alt="aman-senpai" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=gotham" alt="aman-senpai" /> -->
