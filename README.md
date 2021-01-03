@@ -19,3 +19,9 @@ Personality type ***INFJ***.
 >***Otaku***.   
 ![image](1giphy.gif)
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=gotham" alt="aman-senpai" /> -->
+<details>
+  <summary> GitHub Stats</summary>
+
+  <img align="left" alt="Aman Senpai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=dark" />
+
+</details>
