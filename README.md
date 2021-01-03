@@ -18,7 +18,6 @@ Personality type ***INFJ***.
 >***Atheist***.    
 >***Otaku***.   
 ![image](1giphy.gif)
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=gotham" alt="aman-senpai" /> -->
 <details>
   <summary> GitHub Stats</summary>
 
