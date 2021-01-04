@@ -11,6 +11,7 @@
 
 #    
 ***Indian*** 🇮🇳    
+I’m currently learning ***Everything***.    
 I’m currently working on ***Life***.  
 Technology ***Enthusiast***.   
 Personality type ***INFJ***.  
