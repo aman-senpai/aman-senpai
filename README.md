@@ -15,12 +15,16 @@ I’m currently working on ***Life***.
 Technology ***Enthusiast***.   
 Personality type ***INFJ***.  
 
+#
+My ***Life Style*** in few words:   
+>***Aergia***.   
 >***Atheist***.    
 >***Otaku***.   
-<!-- ![image](1giphy.gif)    -->
+<!-- ![image](1giphy.gif)    
 <details>
   <summary> GitHub Stats</summary>
 
   <img align="left" alt="Aman Senpai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aman-senpai&show_icons=true&theme=dark" />
 
 </details>
+-->
