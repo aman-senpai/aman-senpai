@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/aman-senpai)   
-### Hi, I'm ***Aman***.   <img src="hi.gif" width="25px">  
+### Hi, I'm ***Aman***.   <img src="https://media.giphy.com/media/cOhJdtk2W8BQ18Rmo7/giphy.gif" width="75px">  
     
 <a href="https://twitter.com/AmanSenpai" target="_blank">
  <img align="left" alt="Aman Senpai | Twitter" width="22px" src="Social Media/twitter.gif" />
