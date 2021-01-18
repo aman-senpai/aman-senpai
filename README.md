@@ -17,7 +17,7 @@ Personality type ***INFJ***.
 
 >***Atheist***.    
 >***Otaku***.   
-![image](1giphy.gif)    
+<!-- ![image](1giphy.gif)    -->
 <details>
   <summary> GitHub Stats</summary>
 
