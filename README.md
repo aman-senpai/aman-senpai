@@ -20,7 +20,7 @@ Personality type ***INFJ***.
 ![image](1giphy.gif)    
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31wybchg3h2eqmeuxv7f6uli5ddq)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Senpai is Listening " width="350" />](https://open.spotify.com/user/31wybchg3h2eqmeuxv7f6uli5ddq)   
 <details>
   <summary> GitHub Stats</summary>
 
