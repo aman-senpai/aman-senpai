@@ -1,9 +1,8 @@
 <!--
 ![Profile views](https://gpvc.arturio.dev/aman-senpai)   
 -->
-# Namaste, I'm ***Aman***.  <img src="https://media3.giphy.com/media/lTLY0aBWN5SaMeBzLd/giphy.gif?cid=ecf05e47psnqip61qjr6hlb0o31ewucffuzfpbt2820tdt6l&rid=giphy.gif&ct=s" width="95px">
+# Namaste, I'm ***Aman***.  <img src="https://media3.giphy.com/media/lTLY0aBWN5SaMeBzLd/giphy.gif?cid=ecf05e47psnqip61qjr6hlb0o31ewucffuzfpbt2820tdt6l&rid=giphy.gif&ct=s" width="95px"><img src="devcard.svg" width="350px" align="right">
 ### ***A Computer Science student from India.***   
-<img src="devcard.svg" width="350px" align="right">
 
 
 I’m learning ***Everything***.    
