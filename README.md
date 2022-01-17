@@ -14,4 +14,4 @@ Low-key an ***Otaku***.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aman-senpai&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/aman-senpai/aman-senpai/8f6e91dc231020dfa942b1389f04d5191bf45598/github-contribution-grid-snake.svg" >
+<img src="https://github.com/aman-senpai/aman-senpai/blob/output/github-contribution-grid-snake.svg" >
