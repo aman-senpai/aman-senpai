@@ -7,51 +7,14 @@
 ### ***I'm a dabbler, an explorer, a learner - based in India.***   
 
 
-Hi, I'm **Aman**, a final year Computer Science Engineering student from Patna. I am known for my excellent communication, problem-solving, and leadership skills. I am looking to apply my knowledge and abilities to new challenges and would love to connect with opportunities in the field. Let's connect and see how I can contribute to your team, project or world.
+A final year **Computer Science Engineering** student hailing from the city of Patna in India. I am renowned for my exceptional **communicative abilities**, astute **problem-solving** acumen, and demonstrated **leadership** potential. I am fervently seeking new challenges and opportunities to apply my proficiencies and competencies.
 
-<!-- <table style="width: 75%">
-<tr>
-    <th>Languages</th>
-    <th>Libraries</th>
-    <th>Tools</th>
-    <th>Misc.</th>
-<tr>
-<tr>
-    <td>Kotlin</td>
-    <td>Volley, Glide, Room</td>
-    <td>Android Studio</td>
-    <td></td>
-</tr>
-<tr>
-    <td>Python</td>
-    <td>Pandas</td>
-    <td>Git & Github</td>
-    <td></td>
-</tr>
-<tr>
-    <td>Java</td>
-    <td>Spring</td>
-    <td>InteliJ Idea</td>
-    <td>JUnit</td>
-</tr>
-<tr>
-    <td>SQL</td>
-    <td>My Sql</td>
-    <td>Terminal</td>
-    <td></td>
-</tr>
-</table> -->
+As a generalist, I boast a plethora of diverse skills and extensive knowledge across a wide array of fields. My expertise in programming languages, such as **Python, Java, and Kotlin, SQL, JavaScript**, has enabled me to cultivate a unique combination of technical aptitude and interpersonal acumen. Furthermore, my experience in both **Android** and **web development** demonstrates my versatility and capacity to work with an extensive range of technologies.
+
+My fervor for coding is rivaled only by my ardent determination to continuously improve and stay abreast of the latest advancements in the field. My **diverse** background and **versatility** afford me the ability to approach problems with a broad-spectrum perspective and proffer innovative solutions. I am equipped with the facility to swiftly acquire new information and adjust to novel situations, rendering me a valuable asset to any team or project.
+
+I am constantly seeking **new challenges** to showcase my proficiencies and competencies. I am motivated, collaborative, and passionate about making a positive impact. I would be delighted to explore opportunities to contribute to your team, project, or world, and I am eagerly awaiting the opportunity to connect with you. Let us join forces and determine what we can accomplish together!
+
+<img src="https://github.com/aman-senpai/aman-senpai/blob/output/github-contribution-grid-snake.svg" >
+
 </div>
-
-<!-- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aman-senpai&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img src="https://github.com/aman-senpai/aman-senpai/blob/output/github-contribution-grid-snake.svg" width="75%" align="left" ><img src="http://github-readme-streak-stats.herokuapp.com?user=aman-senpai&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="25%" align = "right">
- 
-
-<p float="left">
-  <img src="https://github.com/aman-senpai/aman-senpai/blob/output/github-contribution-grid-snake.svg" width="500" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=aman-senpai&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="250" /> 
-</p>
-
--->
