@@ -8,6 +8,9 @@ I’m working on ***Myself***.
 Technology ***Enthusiast***.   
 Low-key an ***Otaku***.   
 
+<!--START_SECTION:twitter-->
+<!--END_SECTION:twitter-->
+
 ***Things I know:***   
 
 ***It's OTW!*** <img align="center" alt="Loaing" width="80" src="https://c.tenor.com/EcT7mqmmdVAAAAAi/lolicopter-anime.gif">
