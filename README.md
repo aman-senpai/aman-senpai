@@ -8,8 +8,10 @@ I’m working on ***Myself***.
 Technology ***Enthusiast***.   
 Low-key an ***Otaku***.   
 
+---
 <!--START_SECTION:twitter-->
 <!--END_SECTION:twitter-->
+---
 
 ***Things I know:***   
 
