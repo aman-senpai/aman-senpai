@@ -7,7 +7,7 @@
 # Namaste, I'm Aman. 
 ### A proficient Web Developer, Designer, and Architect. 
 I stand as a seasoned Software Engineer. My repertoire is enriched with expertise in the realms of Full Stack Web Development, Design, and Architectural prowess.
-<img src="devcard.svg" width="240px" align="right">
+<img src="devcard.svg" width="150px" align="right">
 
 
 - 📍 Based in India.
