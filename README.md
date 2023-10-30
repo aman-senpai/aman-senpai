@@ -164,8 +164,5 @@ await makeCalls(callLog);
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-senpai&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 <br />
-<a href="https://github.com/aman-senpai">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-senpai&langs_count=3&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" width="499" alt="Top Languages" />
-</a>
 
 <div/>
