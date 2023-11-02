@@ -11,7 +11,7 @@ I stand as a seasoned Software Engineer. My repertoire is enriched with expertis
 
 
 - 📍 Based in India.
-- 🌏 Explore my professional portfolio at [this serene destination]([http://bit.ly/aman-senpai](https://senpai-notes-d95b.vercel.app/aman-raj)). 🏯
+- 🌏 Explore my professional portfolio at [this serene destination](http://bit.ly/aman-senpai](https://senpai-notes-d95b.vercel.app/aman-raj)). 🏯
 - 📧 You can contact me at [jemscollin1@gmail.com](mailto:jemscollin1@gmail.com). ✉️
 - 🧠 Currently, I am passionately delving into the realm of Microservices, expanding my knowledge and skills. 📚
 - 🤝 I am eagerly looking forward to the opportunity to collaborate on **MERN** projects and exciting ventures in the Microservices domain. 💼
